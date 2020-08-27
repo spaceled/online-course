@@ -1,0 +1,7 @@
+.card {
+	text-align: left;
+	margin: 10px 0;
+}
+.card img {
+	width: -webkit-fill-available;
+}
